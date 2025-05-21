@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Caitlin
 
 🧠 Third-year ICT Application Dev student at CPUT  
-💻 I write Java like I’ve got a grudge and debug like I’m solving ancient mysteries  
+💻 I write Java  
 🛠️ Currently building: a Smart Learning System and a Pet Adoption App  
 🌱 Learning: Spring Boot, APIs, and sustainable tech  
-📫 Reach me: [caitlin.dev@email.com](mailto:caitlin.dev@email.com)  
-🔗 Portfolio: [Check out my digital portfolio](https://github.com/YOURUSERNAME/YOURREPO)
+📫 Reach me: [contact me](mailto:230426271@mycput.ac.za)  
+🔗 Portfolio: [Check out my digital portfolio](https://github.com/CaitlinMalan28)
 
 ---
 
@@ -19,8 +19,8 @@
 
 ---
 
-### 📈 GitHub Stats (optional but hot)
-![Caitlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+### 📈 GitHub Stats
+![Caitlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caitlin&show_icons=true&theme=radical)
 
 ---
 
