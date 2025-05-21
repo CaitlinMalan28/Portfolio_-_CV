@@ -20,7 +20,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Caitlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caitlin&show_icons=true&theme=radical)
+![Caitlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaitlinMalan28&show_icons=true&theme=radical)
 
 ---
 
